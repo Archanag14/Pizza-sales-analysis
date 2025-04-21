@@ -1,4 +1,5 @@
-PIZZA SALES ANALYSIS2
+PIZZA SALES ANALYSIS
+
 The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. The SQL analytics include:
 
 Identifying the daily and monthly trends of the pizzas sold and the revenue generated.
